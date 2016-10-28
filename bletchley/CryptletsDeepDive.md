@@ -5,7 +5,7 @@ The promise that blockchain has to revolutionize how business and individuals tr
 
 However, there are some challenges for building applications and new ecosystems on distributed ledger technologies.  These are largely identified in the previous <a href=https://github.com/Azure/azure-blockchain-projects/blob/master/bletchley/bletchley-whitepaper.md>Introduction to Bletchley white-paper</a> as well as an approach for building a distributed platform in the cloud to enable these new types of applications.
 
-For example, blockchains will need a way to securely receive external data variables as well as access to secure execution of off-chain code.  Security advances in silicon chips will soon introduced a new level of security into CPU architectures called enclaves.  The use of enclaves allows for execution of code to be performed in a secure isolated container in which the results of the computation are attested to be tamper proof.
+For example, blockchains will need a way to securely receive external data variables as well as access to secure execution of off-chain code.  Security advances in silicon chips will soon introduce a new level of security into CPU architectures called enclaves.  The use of enclaves allows for execution of code to be performed in a secure isolated container in which the results of the computation are attested to be tamper proof.
 
 Examples:
 * Secure data is needed when a SmartContract requires the LIBOR interest rate to perform some calculation, how does it trust that the rate it is using is completely authentic and has not been tampered with?  
