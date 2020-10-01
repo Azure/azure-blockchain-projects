@@ -1,4 +1,4 @@
-# Welcome to Azure Blockchain Projects
+# Welcome to Azure Blockchain Projects - An Amazing Project
 
 This Repo host Azure related blockchain and distributed ledger projects.
 
